@@ -1,0 +1,24 @@
+body{
+    font-family: tahoma;
+}
+table{
+    height: 100px;
+    line-height: 30px;
+}
+h1{
+    font-family: tahoma;
+}
+.t1{
+    color: #9b9999ed;
+}
+td{
+    padding: 5px;
+}
+
+.box{
+    transition-duration: 3s;
+    transition-property: width;
+}
+.box:hover{
+    width:120%;
+}
